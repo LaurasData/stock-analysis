@@ -5,9 +5,10 @@ Performing analysis on Stock data to uncover trends
 
 ### Purpose
 
-## Analysis and Challenges
+#### Analysis and Challenges
+Prices were not captured correctly in VBA for beginning and ending prices due to sorting?
 
-### Analysis of Outcomes Based on Launch Date
+### Analysis of starting Price and Ending Price for Returns
 
 ### Analysis of Outcomes Based on Goals
 

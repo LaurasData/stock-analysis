@@ -2,9 +2,11 @@
 Performing analysis on Stock data to uncover trends
 
 ## Overview of Project
-- Two Deliverables: technical deliverable and a written report  
-      -- Techical Deliverble to Refactor VBA code and measure performances
-      -- A written analysis of results (README.md)
+      Two Deliverables: technical deliverable and a written report  
+      1. Techical VBA Refactor to measure performances
+      2. Written analysis of results 
+  
+  A. 
 
 
 ### Purpose

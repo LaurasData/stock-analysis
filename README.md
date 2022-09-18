@@ -9,7 +9,10 @@ Performing analysis on Stock data to uncover trends
 ### Purpose
 
 #### Analysis and Challenges
-
+- Created pivot tables and grouping in Excel to visualize campaign outcomes ("successful," "failed," and "canceled") based on launch date and funding goals
+- Grouped "Row Labels" by months in the Pivot table
+- Created Year() from Conversion date
+Download challenge_starter_code.vbs
 
 ### Analysis of starting Price and Ending Price for Returns
 While Substracting the beginning and ending prices would give a first and last value

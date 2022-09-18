@@ -2,6 +2,10 @@
 Performing analysis on Stock data to uncover trends
 
 ## Overview of Project
+-Two Deliverables: technical deliverable and a written report Readme.md to deliver your results.
+--Deliverable 1: Refactor VBA code and measure performance
+---This deliverable will include an updated workbook and a folder with PNGs of the pop-ups with script run time
+--Deliverable 2: A written analysis of your results (README.md)
 
 ### Purpose
 

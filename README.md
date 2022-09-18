@@ -11,15 +11,20 @@ Performing analysis on Stock data to uncover trends
 - To deliver a refactored VBA Code that speeds up the performances  
 
 
-#### Analysis and Challenges
+### Analysis and Challenges
       - A huge challenge was getting the performances to show different years.
       - updates for refactoring include Elseif instead of End if
-      - Download challenge_starter_code.vbs
+      - Download challenge_starter_code.vbs and refactor for ElseIf
+ A. https://github.com/LaurasData/stock-analysis/blob/main/VBA_Challenge.vbs
 
 
 ### Analysis of starting Price and Ending Price for Returns
       - I am not in agreement with this logic flow as we need to 
       - assign the min and max values and not the last and first rows.
+      
+A. https://github.com/LaurasData/stock-analysis/blob/main/resources/VBA_Challenge_2017.png
+
+B. https://github.com/LaurasData/stock-analysis/blob/main/resources/VBA_Challenge_2018.png
    
 
 ### Challenges and Difficulties Encountered

@@ -2,28 +2,24 @@
 Performing analysis on Stock data to uncover trends
 
 ## Overview of Project
-- Two Deliverables: technical deliverable and a written report
-<<<<<<< HEAD
-  1. Techical Deliverble to Refactor VBA code and measure performances
-  2. A written analysis of results (README.md)
+- Two Deliverables: technical deliverable and a written report  
+      -- Techical Deliverble to Refactor VBA code and measure performances
+      -- A written analysis of results (README.md)
 
-=======
- 1. Techical deliverable of Refactored VBA code to measure performances
- 2. Written deliverable of Stock Analyst
   
->>>>>>> 5d99b1d4b3a81c7fc01641662f7bbb985517d52e
+
 ### Purpose
 - To deliver a refactored VBA Code that speeds up the performances  
 #### Analysis and Challenges
 <<<<<<< HEAD
  - A huge challenge was getting the performances to show different years.
     - - updates for refactoring include Elseif instead of End if
-=======
+
 - Created pivot tables and grouping in Excel to visualize campaign outcomes ("successful," "failed," and "canceled") based on launch date and funding goals
 - Grouped "Row Labels" by months in the Pivot table
 - Created Year() from Conversion date
 Download challenge_starter_code.vbs
->>>>>>> 5d99b1d4b3a81c7fc01641662f7bbb985517d52e
+
 
 ### Analysis of starting Price and Ending Price for Returns
 While Substracting the beginning and ending prices would give a first and last value
